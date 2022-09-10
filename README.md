@@ -1,5 +1,7 @@
 # Introduction
-https://youtu.be/M1cuZ7uACf0
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/M1cuZ7uACf0)
+
+
 Python is an popular object oriented programming language. It is general-purpose interpreted, high level dynamically typed language. It is developed by Guido Van Rossum in 1991.  Python has their own documentation type PEP8, that increase code readiability. Its syntax is said to be clear and expressive
 similar to English. Python has a large and comprehensive standard library. 
 1. Open Source and community driven
