@@ -1,9 +1,9 @@
 # Introduction
 Python is an popular object oriented programming language. It is general-purpose interpreted, high level dynamically typed language. It is developed by Guido Van Rossum in 1991.  Python has their own documentation type PEP8, that increase code readiability. Its syntax is said to be clear and expressive
 similar to English. Python has a large and comprehensive standard library. 
-### Open Source and community driven
-### Python is real-world, production language.
-### Freely available to almost all Operating systems. e.g- mac, window, linux, resberryPI
+1. Open Source and community driven
+2. Python is real-world, production language.
+3. Freely available to almost all Operating systems. e.g- mac, window, linux, resberryPI
 
 ## Python Use Cases
 1. Web Development
